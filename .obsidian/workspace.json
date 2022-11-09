@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intermediate/HTML Intermediate.md",
+                "file": "development-101/3.0 CSS Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intermediate/HTML Intermediate.md",
+                "file": "development-101/3.0 CSS Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intermediate/HTML Intermediate.md",
+                "file": "development-101/3.0 CSS Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intermediate/HTML Intermediate.md"
+                "file": "development-101/3.0 CSS Basics.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "4f4c8adc79c33513",
   "lastOpenFiles": [
+    "development-101/2.0 HTML Basics.md",
+    "development-101/3.0 CSS Basics.md",
+    "development-101/1.0 Prerequisites.md",
+    "resources.md",
+    "README.md",
+    "intermediate/HTML Intermediate.md",
     "SUMMARY.md",
     "advanced/README.md",
     "development-101/6.0 Back End.md",
-    "README.md",
-    "development-101/2.0 HTML Basics.md",
-    "development-101/3.0 CSS Basics.md",
-    "development-101/999-best-practices.md",
-    "development-101/4.0 Javascript Basics.md",
-    "Dev 101/999 Best Practices.md",
-    "glossary.md"
+    "development-101/999-best-practices.md"
   ]
 }
