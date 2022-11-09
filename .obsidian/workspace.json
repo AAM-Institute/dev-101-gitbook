@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "intermediate/HTML Intermediate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "intermediate/HTML Intermediate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "intermediate/HTML Intermediate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "intermediate/HTML Intermediate.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "4f4c8adc79c33513",
   "lastOpenFiles": [
-    "advanced/README.md",
     "SUMMARY.md",
+    "advanced/README.md",
     "development-101/6.0 Back End.md",
     "README.md",
     "development-101/2.0 HTML Basics.md",
