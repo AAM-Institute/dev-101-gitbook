@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev 101/3.0 CSS Basics.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev 101/3.0 CSS Basics.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev 101/3.0 CSS Basics.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev 101/3.0 CSS Basics.md"
+                "file": "SUMMARY.md"
               }
             }
           }
@@ -138,11 +138,15 @@
   },
   "active": "4f4c8adc79c33513",
   "lastOpenFiles": [
+    "advanced/README.md",
+    "SUMMARY.md",
+    "development-101/6.0 Back End.md",
+    "README.md",
+    "development-101/2.0 HTML Basics.md",
+    "development-101/3.0 CSS Basics.md",
+    "development-101/999-best-practices.md",
+    "development-101/4.0 Javascript Basics.md",
     "Dev 101/999 Best Practices.md",
-    "Dev 101/6.0 Back End.md",
-    "Dev 101/2.0 HTML Basics.md",
-    "glossary.md",
-    "Dev 101/1.0 Prerequisites.md",
-    "Dev 101/0.0 Programming Mindset.md"
+    "glossary.md"
   ]
 }
