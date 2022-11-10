@@ -1,4 +1,10 @@
-# Developer Resources
+# Resources
+
+AAM Discord
+https://discord.gg/5fY5efPd
+
+AAM Github
+https://github.com/AAM-Institute/dev-101/
 
 ## Informational
 
@@ -54,7 +60,7 @@ https://alistapart.com/
 #### CSS Tricks
 https://css-tricks.com/
 
-## Resource Lists
+## More Resources
 
 #### Addy Codes
 > Resources for web designers & developers
@@ -66,3 +72,17 @@ https://fullstackvault.xyz/
 #### Inspire
 > Collection of frontend dev and web design links 💡
 https://github.com/noahbuscher/Inspire
+
+## Topic in 100 Seconds
+- [Linux](https://www.youtube.com/watch?v=rrB13utjYV4)
+- [HTML](https://www.youtube.com/watch?v=ok-plXXHlWw)
+- [Javascript ](https://www.youtube.com/watch?v=DHjqpvDnNGE)
+	- [Typescript](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
+	- [Redux](https://www.youtube.com/watch?v=_shA5Xwe8_4)
+- [PHP](https://www.youtube.com/watch?v=a7_WFUlFS94)
+- [Python](https://www.youtube.com/watch?v=x7X9w_GIm1s)
+- [Java](https://www.youtube.com/watch?v=l9AzO1FMgM8)
+- [C++](https://www.youtube.com/watch?v=MNeX4EGtR5Y)
+- [Go](https://www.youtube.com/watch?v=446E-r0rXHI)
+- [Godot](https://www.youtube.com/watch?v=QKgTZWbwD1U)
+- [Firebase](https://www.youtube.com/watch?v=vAoB4VbhRzM)

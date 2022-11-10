@@ -11,20 +11,27 @@
             "id": "4f4c8adc79c33513",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "resources.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "40d3000d353ecbb6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dev-101/4.0 Javascript Basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "resources.md"
+              }
             }
           }
         ]
@@ -137,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40d3000d353ecbb6",
+  "active": "4f4c8adc79c33513",
   "lastOpenFiles": [
+    "dev-101/5.0 Javascript Continued.md",
+    "dev-101/4.0 Javascript Basics.md",
+    "dev-101/3.0 CSS Basics.md",
+    "dev-101/2.0 HTML Basics.md",
+    "dev-101/1.0 Prerequisites.md",
+    "dev-101/0.0 Programming Mindset.md",
+    "resources.md",
     "development-101/1.0 Prerequisites.md",
     "development-101/0.0 Programming Mindset.md",
-    "development-101/5.0 Javascript Continued.md",
-    "development-101/6.0 Back End Basics.md",
-    "development-101/7.0 Server-side React.md",
-    "development-101/3.0 CSS Basics.md",
-    "development-101/2.0 HTML Basics.md",
-    "resources.md",
-    "README.md",
-    "intermediate/HTML Intermediate.md"
+    "development-101/5.0 Javascript Continued.md"
   ]
 }
