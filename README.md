@@ -6,19 +6,13 @@ That’s me^^ :)
 
 At AAM institute, we believe there’s a better, faster way to become a top notch coder that doesn’t exist right now.
 
-
-
 **It’s a fact - the most effective way to become a job-ready coder is through real world application and hands-on support from experts.**
 
-****
+#### ****
 
 #### **AAM stands for {A}gile {A}cademic {M}ethod.**
 
-It’s a process we’ve created that teaches coding through a simulation of a real-world product team.
-
-
-
-Developers with years of experience will tell you, no one really knows what it’s like to be an engineer until you get your first job.
+It’s a process we’ve created that teaches coding through a simulation of a real-world product team. Developers with years of experience will tell you, no one really knows what it’s like to be an engineer until you get your first job.
 
 
 
@@ -27,22 +21,16 @@ Developers with years of experience will tell you, no one really knows what it�
 
 So many college classes and bootcamps are based around cookie-cutter projects. You and your fellow students do the exact same coding assignments and when you graduate, you all compete for the same jobs with the exact same portfolio.
 
-
-
 **We want to make you stand out from everyone else.** You’ll graduate with a one-of-a-kind portfolio, filled to the brim with a variety of different applications.
 
 
 
 #### So how do we get started?
 
-Enter Dev101, our precursor to our full AAM program. This crash course will give you the foundational knowledge needed for you to be functional during our AAM simulation.
-
-\
+Enter Dev101, our precursor to our full AAM program. This crash course will give you the foundational knowledge needed for you to be functional during our AAM simulation.\
 
 
 This course **is not meant to make you a job-ready coder.** It’s just the basics to get you up to speed. We’ve developed it to be as short as possible, because we know the real learning and development happens during AAM.\
-
-
 
 
 #### But what do you mean by “Pilot”?
@@ -59,9 +47,7 @@ We believe the process we’ve put together with these materials is the fastest 
 
 
 
-**This course is free for you because it’s a test. We’re only opening it to a very small amount of people.** Can you help us out by letting me know how your experience goes, what questions you have and where you struggled most? **I’ll be with you every step of the way to help.**
-
-\
+**This course is free for you because it’s a test. We’re only opening it to a very small amount of people.** Can you help us out by letting me know how your experience goes, what questions you have and where you struggled most? **I’ll be with you every step of the way to help.**\
 
 
 #### What happens when I complete Dev101
