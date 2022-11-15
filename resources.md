@@ -2,29 +2,45 @@
 
 #### AAM Resources
 
-Join the community on the [AAM Discord](https://discord.gg/5fY5efPd)
+Join the community on the [AAM Discord](https://discord.gg/5fY5efPd)&#x20;
+
+{% embed url="https://discord.gg/5fY5efPd/" %}
 
 View projects in the [AAM Github](https://github.com/AAM-Institute/)
 
+{% embed url="https://github.com/AAM-Institute/" %}
+
 Post questions to the [AAM Reddit](https://www.reddit.com/r/aaminstitute) (private for now)
+
+{% embed url="https://www.reddit.com/r/aaminstitute" %}
 
 ## Informational Resources
 
-#### ****[**Can I Use?**](https://caniuse.com/)  ([caniuse.com](https://caniuse.com/))&#x20;
+#### ****[**Can I Use?**](https://caniuse.com/)&#x20;
 
-> Browser feature support
+> Up-to-date feature support for HTML, CSS, and JS properties and features within all of the popular browsers. Use this to check whether your website breaks or looks different for certain users.
 
-Up-to-date feature support for HTML, CSS, and JS properties and features within all of the popular browsers. Use this to check whether your website breaks or looks different for certain users.
+{% embed url="https://caniuse.com/" %}
+Browser feature support
+{% endembed %}
 
-#### [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web) [(developer.mozilla.org)](https://developer.mozilla.org/en-US/docs/Web)
+#### [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
+
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/" %}
+
+####
+
+#### [(developer.mozilla.org)](https://developer.mozilla.org/en-US/docs/Web)
+
+####
 
 #### StackOverflow
 
-https://stackoverflow.com/
+{% embed url="https://stackoverflow.com/" %}
 
 #### W3Schools
 
-https://www.w3schools.com/
+{% embed url="https://www.w3schools.com/" %}
 
 ## Interactive Coding
 
