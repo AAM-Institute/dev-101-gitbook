@@ -1,6 +1,6 @@
 # Developer Resources
 
-#### AAM Resources
+## AAM Resources
 
 Join the community on the [AAM Discord](https://discord.gg/5fY5efPd)&#x20;
 
@@ -9,10 +9,6 @@ Join the community on the [AAM Discord](https://discord.gg/5fY5efPd)&#x20;
 View projects in the [AAM Github](https://github.com/AAM-Institute/)
 
 {% embed url="https://github.com/AAM-Institute/" %}
-
-Post questions to the [AAM Reddit](https://www.reddit.com/r/aaminstitute) (private for now)
-
-{% embed url="https://www.reddit.com/r/aaminstitute" %}
 
 ## Informational Resources
 
@@ -28,12 +24,6 @@ Browser feature support
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Web/" %}
 
-####
-
-#### [(developer.mozilla.org)](https://developer.mozilla.org/en-US/docs/Web)
-
-####
-
 #### StackOverflow
 
 {% embed url="https://stackoverflow.com/" %}
@@ -46,39 +36,41 @@ Browser feature support
 
 #### Codepad
 
-http://codepad.org/
+{% embed url="http://codepad.org/" %}
 
 #### CodePen
 
-https://codepen.io/
+{% embed url="https://codepen.io/" %}
 
 #### Snoopcode
 
-> Interactive Code Learning https://www.snoopcode.com/
+{% embed url="https://www.snoopcode.com/" %}
+Interactive Code Learning&#x20;
+{% endembed %}
 
 ## Courses
 
 #### Codecademy
 
-https://www.codecademy.com/
+{% embed url="https://www.codecademy.com/" %}
 
 #### Eloquent Javascript
 
-https://eloquentjavascript.net/
+{% embed url="https://eloquentjavascript.net/" %}
 
 #### Software Guild
 
-https://www.thesoftwareguild.com/coding-bootcamps/introduction-web-development/
+{% embed url="https://www.thesoftwareguild.com/coding-bootcamps/introduction-web-development/" %}
 
 #### Wes Bos Course
 
-https://javascript30.com/
+{% embed url="https://javascript30.com/" %}
 
 ## Publications
 
 #### A List Apart
 
-https://alistapart.com/
+{% embed url="https://alistapart.com/" %}
 
 #### [CSS Tricks](https://css-tricks.com/)
 
@@ -90,17 +82,21 @@ A front-end developer turned blogger writes about common HTML/CSS problems and s
 
 #### Addy Codes
 
-> Resources for web designers & developers https://toolkit.addy.codes/
+{% embed url="https://toolkit.addy.codes/" %}
+Resources for web designers & developers&#x20;
+{% endembed %}
 
 #### Full-Stack Vault List
 
-https://fullstackvault.xyz/
+{% embed url="https://fullstackvault.xyz/" %}
 
 #### Inspire
 
-> Collection of frontend dev and web design links 💡 https://github.com/noahbuscher/Inspire
+{% embed url="https://github.com/noahbuscher/Inspire" %}
+Collection of frontend dev and web design links 💡&#x20;
+{% endembed %}
 
-## Topic in 100 Seconds
+## Programming videos in 100 Seconds
 
 * [Linux](https://www.youtube.com/watch?v=rrB13utjYV4)
 * [HTML](https://www.youtube.com/watch?v=ok-plXXHlWw)
