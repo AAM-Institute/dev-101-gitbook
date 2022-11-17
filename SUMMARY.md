@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Dev 101](README.md)
+* [Development 101](README.md)
   * [0.0 Programming Mindset](<dev-101/0.0 Programming Mindset.md>)
   * [1.0 Prerequisites](<dev-101/1.0 Prerequisites.md>)
   * [2.0 HTML Basics](<dev-101/2.0 HTML Basics.md>)
