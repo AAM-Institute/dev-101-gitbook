@@ -43,3 +43,5 @@ A vendor is a third-party entity that creates resources used by a company or wit
 Version control, also known as source control, is _the practice of tracking and managing changes to software code_ to efficiently allow every stage in the development process to be saved, accessible, and reproducible.
 
 #### Virtual Machine (VM)
+
+A virtual machine, commonly shortened to just VM, is no different than any other physical computer like a laptop, smart phone, or server. It has a CPU, memory, disks to store your files, and can connect to the internet if needed. While the parts that make up your computer (called hardware) are physical and tangible, VMs are often thought of as virtual computers or software-defined computers within physical servers, existing only as code.
