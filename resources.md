@@ -22,27 +22,31 @@ Browser feature support
 
 #### [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
 
+> MDN Web Docs is a documentation repository and learning resource for web developers. It was started by Mozilla in 2005 as a unified place for documentation about open web standards.
+
 {% embed url="https://developer.mozilla.org/en-US/docs/Web/" %}
 
-#### StackOverflow
+#### [StackOverflow](https://stackoverflow.com/)
+
+> Stack Overflow is a question and answer website for professional and enthusiast programmers
 
 {% embed url="https://stackoverflow.com/" %}
 
-#### W3Schools
+#### [W3Schools](https://www.w3schools.com/)
 
 {% embed url="https://www.w3schools.com/" %}
 
 ## Interactive Coding
 
-#### Codepad
+#### [Codepad](http://codepad.org/)
 
 {% embed url="http://codepad.org/" %}
 
-#### CodePen
+#### [CodePen](https://codepen.io/)
 
 {% embed url="https://codepen.io/" %}
 
-#### Snoopcode
+#### [Snoopcode](https://www.snoopcode.com/)
 
 {% embed url="https://www.snoopcode.com/" %}
 Interactive Code Learning&#x20;
@@ -50,25 +54,25 @@ Interactive Code Learning&#x20;
 
 ## Courses
 
-#### Codecademy
+#### [Codecademy](https://www.codecademy.com/)
 
 {% embed url="https://www.codecademy.com/" %}
 
-#### Eloquent Javascript
+#### [Eloquent Javascript](https://eloquentjavascript.net/)
 
 {% embed url="https://eloquentjavascript.net/" %}
 
-#### Software Guild
+#### [Software Guild](https://www.thesoftwareguild.com/coding-bootcamps/introduction-web-development/)
 
 {% embed url="https://www.thesoftwareguild.com/coding-bootcamps/introduction-web-development/" %}
 
-#### Wes Bos Course
+#### [Wes Bos Course](https://javascript30.com/)
 
 {% embed url="https://javascript30.com/" %}
 
 ## Publications
 
-#### A List Apart
+#### [A List Apart](https://alistapart.com/)
 
 {% embed url="https://alistapart.com/" %}
 
@@ -80,17 +84,17 @@ A front-end developer turned blogger writes about common HTML/CSS problems and s
 
 ## More Resources
 
-#### Addy Codes
+#### [Addy Codes](https://toolkit.addy.codes/)
 
 {% embed url="https://toolkit.addy.codes/" %}
 Resources for web designers & developers&#x20;
 {% endembed %}
 
-#### Full-Stack Vault List
+#### [Full-Stack Vault List](https://fullstackvault.xyz/)
 
 {% embed url="https://fullstackvault.xyz/" %}
 
-#### Inspire
+#### [Inspire](https://github.com/noahbuscher/Inspire)
 
 {% embed url="https://github.com/noahbuscher/Inspire" %}
 Collection of frontend dev and web design links 💡&#x20;
