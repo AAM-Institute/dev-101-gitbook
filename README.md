@@ -6,11 +6,11 @@ My name is Lacy Morrow, and I'll be your guide through the wonderful world of co
 
 At AAM institute, we believe there’s a better, faster way to become a top notch coder that doesn’t exist right now.
 
-**It’s a fact - the most effective way to become a competent, hirable programmer is by building real world applications and having ''hands-on support from experts.**
+**It’s a fact - the most effective way to become a competent, hireable programmer is by building real world applications and having ''hands-on support from experts.**
 
 ****
 
-### **AAM stands for {A}gile {A}cademic {M}ethod.**
+### **AAM stands for (A)gile (A)cademic (M)ethod.**
 
 It’s a process we’ve created that teaches coding through the simulation of a real-world product team. Developers with years of experience will tell you, no one really knows what it’s like to be an engineer until you get your first job.
 
