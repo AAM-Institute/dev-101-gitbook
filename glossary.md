@@ -2,6 +2,8 @@
 
 ## Glossary
 
+> __[_View a more comprehensive glossary_](https://medium.com/progate/a-programmers-dictionary-7b13100a3662)
+
 #### Browser
 
 A web browser takes you anywhere on the internet. It is a computer program that retrieves information from other parts of the web and displays it on your desktop or mobile device.
