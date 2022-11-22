@@ -1,6 +1,8 @@
-# Development 101
+# Welcome to Development 101
 
-## **Welcome to AAM institute's Dev101!**
+### **Welcome to AAM institute's Dev101!**
+
+****
 
 My name is Lacy Morrow, and I'll be your guide through the wonderful world of coding!
 
@@ -12,7 +14,9 @@ At AAM institute, we believe there’s a better, faster way to become a top notc
 
 ****
 
-## **AAM stands for (A)gile (A)cademic (M)ethod.**
+### **AAM stands for (A)gile (A)cademic (M)ethod.**
+
+****
 
 It’s a process we’ve created that teaches coding through the **simulation** of a **real-world product team.** Developers with years of experience will tell you, no one really knows what it’s like to be an engineer until you get your first job.
 
@@ -29,7 +33,9 @@ So many college classes and bootcamps are based around cookie-cutter projects. Y
 
 
 
-## So how do we get started?
+### So how do we get started?
+
+
 
 Enter Development 101, our precursor to our full AAM program. This crash course will give you the foundational knowledge needed for you to be functional during AAM.\
 
@@ -37,7 +43,9 @@ Enter Development 101, our precursor to our full AAM program. This crash course 
 This course **is not meant to make you a job-ready coder.** It’s just the basics to get you up to speed. We’ve developed it to be as short as possible, because we know the real learning and development happens during AAM.\
 
 
-## But what do you mean by “Pilot”?
+### But what do you mean by “Pilot”?
+
+
 
 AAM institute is **not currently live**. We’re doing a bunch of tests right now to create our final approach and guess what? You’re one of our lucky guinea pigs.
 
@@ -58,7 +66,9 @@ We believe the process we’ve put together with these materials is the fastest 
 **I’ll be with you every step of the way to help.**\
 
 
-## What happens when I complete Dev101?
+### What happens when I complete Dev101?
+
+
 
 Once you complete the free pilot for Dev101, **you’ll be eligible to join our AAM Pilot Program for free as well!**
 
@@ -70,7 +80,9 @@ Spots are **EXTREMELY limited** in the AAM Pilot Program and will only be availa
 So if you want to join our AAM Pilot Program for **free** (a \~$2,500 value)**,** stay discipline and dedicate time every day to work on Dev101 (we suggest 2 - 4 hours a day), make sure you learn the material and do well on the projects/tests!\
 
 
-## Warning: Do not skip anything!
+### Warning: Do not skip anything!
+
+
 
 We have built this course very carefully, so **please do not skip anything!** I repeat, **do not skip anything!** We spent so much time cutting this down to the most important information only, so every step is essential.
 

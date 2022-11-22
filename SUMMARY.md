@@ -2,7 +2,7 @@
 
 * [Welcome to Development 101](README.md)
   * [0.0 Programming Mindset](<dev-101/0.0 Programming Mindset.md>)
-  * [1.0 Prerequisites](<dev-101/1.0 Prerequisites.md>)
+  * [1.0 Basic Setup](<dev-101/1.0 Prerequisites.md>)
   * [2.0 HTML Basics](<dev-101/2.0 HTML Basics.md>)
   * [3.0 CSS Basics](<dev-101/3.0 CSS Basics.md>)
   * [4.0 Javascript Basics](<dev-101/4.0 Javascript Basics.md>)
