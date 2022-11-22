@@ -1,6 +1,8 @@
 # Welcome to Development 101
 
-**Welcome to AAM institute's Dev101!**
+### **Welcome to AAM institute's Dev101!**
+
+****
 
 My name is Lacy Morrow, and I'll be your guide through the wonderful world of coding!
 
