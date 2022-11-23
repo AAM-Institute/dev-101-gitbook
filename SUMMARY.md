@@ -9,5 +9,6 @@
   * [5.0 Back End Basics](readme/6.0-back-end.md)
   * [6.0 Further Development & Tooling](<dev-101/5.0 Javascript Continued.md>)
   * [7.0 Javascript Frameworks](readme/5.0-javascript-continued-1.md)
+  * [Conclusion](readme/conclusion.md)
 * [Developer Resources](resources.md)
 * [Glossary](glossary.md)
